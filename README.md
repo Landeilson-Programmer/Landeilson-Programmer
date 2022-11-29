@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, Eu sou Landeilson Veloso! 👋
 
-<!--
-**Lander16-Programmer/Lander16-Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+👨‍💻 Status:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante do Curso Tecnológico em Análise e Desenvolvimento de Sistemas - IFPI Campus Picos-PI
+- 🔭 Atualmente estou trabalhando com Front End
+- 🌱 Estou aprendendo React.js, JavaScript e TypeScript
+
+##
+
+
+📫 Contats:
+
+<div>
+   <a href="landeilson.veloso.programmer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
