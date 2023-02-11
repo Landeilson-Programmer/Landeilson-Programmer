@@ -5,8 +5,6 @@
 ### Status:
 
 - 👨‍💻 Estudante do Curso Tecnológico em Análise e Desenvolvimento de Sistemas - IFPI Campus Picos
-- 🔭 Atualmente estou trabalhando com Front End
-- 🌱 Estou aprendendo React.js, JavaScript e TypeScript
 
 ##
 
