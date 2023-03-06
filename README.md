@@ -5,7 +5,7 @@
 <h3>Status:</h3>
 
 <ul>
-   <li><b>👨‍💻 Estudante do Curso Tecnológico em Análise e Desenvolvimento de Sistemas - IFPI Campus Picos<b/></li>
+   <li>👨‍💻 Estudante do Curso Tecnológico em Análise e Desenvolvimento de Sistemas - IFPI Campus Picos</li>
 </ul>
 
 <hr/>
