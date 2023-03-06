@@ -1,11 +1,11 @@
 <h3>Olá, Eu sou Landeilson Veloso! 👋</h3>
 
-<hr>
+<br/>
 
 <h3>Status:</h3>
 
 <ul>
-   <li>👨‍💻 Estudante do Curso Tecnológico em Análise e Desenvolvimento de Sistemas - IFPI Campus Picos</li>
+   <li><b>👨‍💻 Estudante do Curso Tecnológico em Análise e Desenvolvimento de Sistemas - IFPI Campus Picos<b/></li>
 </ul>
 
 <hr/>
@@ -34,3 +34,5 @@
 <div>
    <img src="https://camo.githubusercontent.com/6c77f48448436958068b4095908bad7cc837a7d00c677b003874fc89870f81ec/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6d7973716c2d6c6f676f2e706e67">
 </div>
+
+<hr/>
