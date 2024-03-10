@@ -3,23 +3,36 @@
 <br/>
 
 <ul>
-   <li>👨‍💻 Estudante do Curso Tecnológico em Análise e Desenvolvimento de Sistemas - IFPI Campus Picos</li>
+   <p>👨‍💻 Estudante do Curso Tecnológico em Análise e Desenvolvimento de Sistemas - IFPI Campus Picos</p>
+</ul>
+
+<br/>
+
+<h3>Front-End:</h3>
+
+<br/>
+
+<ul>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 Logo" width=30px height=40px/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 Logo" width=30px height=40px/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript Logo" width=30px height=40px/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss Logo" width=30px height=40px/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Logo" width=30px height=40px/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Nextjs Logo" width=30px height=40px/>
 </ul>
 
 <br/>
 
 <h3>Contats:</h3>
 
-<div>
-   <a href="mailto:landeilson.veloso.programador@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-   </a>
+<br/>
 
-   <a href="mailto:landeilson.veloso.programador@gmail.com">
-      <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<ul>
+   <a href="mailto:landeilsonveloso2022@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" width=75 height=25px/>
    </a>
    
    <a href="https://www.linkedin.com/in/landeilson-veloso-2510a424a">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo" width=75 height=25px/>
    </a>
-</div>
+</ul>
