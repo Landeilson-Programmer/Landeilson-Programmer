@@ -38,11 +38,11 @@
 <br/>
 
 <div>
-   <a href="mailto:landeilsonveloso2022@gmail.com">
+   <a href="mailto:landeilsonveloso2022@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" width=75 height=25px/>
    </a>
    
-   <a href="https://www.linkedin.com/in/landeilson-veloso-2510a424a">
+   <a href="https://www.linkedin.com/in/landeilson-veloso-2510a424a" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo" width=75 height=25px/>
    </a>
 </div>
